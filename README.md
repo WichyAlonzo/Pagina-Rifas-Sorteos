@@ -1,1 +1,2 @@
-Hola
+# Leer antes de continuar
+## Precios
